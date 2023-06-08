@@ -16,7 +16,7 @@
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tienbot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tienbotz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 
@@ -27,13 +27,13 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="ссылка на whatsUp" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/733585.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="ссылка на discord" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/5968756.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="ссылка на telegram" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/5968804.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://t.me/tienbotz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
