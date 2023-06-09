@@ -90,12 +90,12 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| beonmax.com/HTML/CSS                                            | 05/2020 - 06/2020 |
-| netology.ru/Основы HTML и CSS                                   | 06/2020 - 07/2020 |
-| beonmax.com/ВЕБ-разработчик - с нуля до результата!             | 07/2020 - 09/2020 |
-| beonmax.com/Посадка верстки и создание тем на CMS WordPress     | 02/2021 - 04/2021 |
-| beonmax.com/WordPress – с нуля до Профи!                        | 04/2021 - 05/2021 |
-| coursera.org/Яндекс/Тонкости верстки                            | 03/2022 - 04/2022 |
+| <a href="https://beonmax.com/certificates/eca7b703691b6a84a7e3efd55237388b/ru/">beonmax.com/HTML/CSS</a>| 05/2020 - 06/2020 |
+| <a href="https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/pdf_certificate/38457/certificate.pdf">netology.ru/Основы HTML и CSS</a>| 06/2020 - 07/2020 |
+| <a href="https://beonmax.com/certificates/26d73162d97439ec706bb6c036172732/ru/">beonmax.com/ВЕБ-разработчик - с нуля до результата!</a>| 07/2020 - 09/2020 |
+| <a href="https://beonmax.com/certificates/b60a3ea421526c44c42907bdc344b6b3/ru/">beonmax.com/Посадка верстки и создание тем на CMS WordPress</a>| 02/2021 - 04/2021 |
+| <a href="https://beonmax.com/certificates/96ecd9429cc33825f45deaf3e71f5ab0/ru/">beonmax.com/WordPress – с нуля до Профи!</a>| 04/2021 - 05/2021 |
+| <a href="https://www.coursera.org/account/accomplishments/certificate/GXZTSTJVAS75">coursera.org/Яндекс/Тонкости верстки</a>| 03/2022 - 04/2022 |
 | <a href="https://www.coursera.org/account/accomplishments/certificate/6ZS8RDGA22CN">coursera.org/UCDavis/JavaScript Basics</a>| 04/2022 - 05/2022 | 
 | saintcode.ru/С нуля до Junior-программиста за 3 месяца         | 03/2023 - 06/2023 |
 
