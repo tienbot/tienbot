@@ -16,24 +16,24 @@
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tienbot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tienbotz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tienbot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tienbotz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttien.ru@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="ссылка на VK" target="_blank">
+    <a href="https://vk.com/im?sel=tien92" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="ссылка на whatsUp" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://wa.me/89253401668" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="WhatsUp Badge"/>
     </a>
     <a href="ссылка на discord" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" alt="Discord Badge"/>
     </a>
     <a href="https://t.me/tienbotz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" height="40" alt="Telegram Badge"/>
     </a>
   </div>
 
@@ -55,7 +55,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="threeJS" alt="threeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
 </div>
 
