@@ -96,8 +96,8 @@
 | beonmax.com/Посадка верстки и создание тем на CMS WordPress     | 02/2021 - 04/2021 |
 | beonmax.com/WordPress – с нуля до Профи!                        | 04/2021 - 05/2021 |
 | coursera.org/Яндекс/Тонкости верстки                            | 03/2022 - 04/2022 |
-| coursera.org/UCDavis/JavaScript Basics                          | 04/2022 - 05/2022 |
-| saintcode.ru//С нуля до Junior-программиста за 3 месяца         | 03/2023 - 06/2023 |
+| <a href="https://www.coursera.org/account/accomplishments/certificate/6ZS8RDGA22CN">coursera.org/UCDavis/JavaScript Basics</a>| 04/2022 - 05/2022 | 
+| saintcode.ru/С нуля до Junior-программиста за 3 месяца         | 03/2023 - 06/2023 |
 
 ---
 
