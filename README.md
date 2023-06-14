@@ -16,7 +16,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера
+<!-- - :telescope: Участвовал в бассейне Школы 21 от Сбера -->
 
 - :seedling: Завершил bootcamp SaintCode!
 
