@@ -97,7 +97,7 @@
 | <a href="https://beonmax.com/certificates/96ecd9429cc33825f45deaf3e71f5ab0/ru/">beonmax.com/WordPress – с нуля до Профи!</a>| 04/2021 - 05/2021 |
 | <a href="https://www.coursera.org/account/accomplishments/certificate/GXZTSTJVAS75">coursera.org/Яндекс/Тонкости верстки</a>| 03/2022 - 04/2022 |
 | <a href="https://www.coursera.org/account/accomplishments/certificate/6ZS8RDGA22CN">coursera.org/UCDavis/JavaScript Basics</a>| 04/2022 - 05/2022 | 
-| saintcode.ru/С нуля до Junior-программиста за 3 месяца         | 03/2023 - 06/2023 |
+| <a href="https://disk.yandex.ru/i/DHZ78aFH6rEoyQ">saintcode.ru/С нуля до Junior-программиста за 3 месяца</a>| 03/2023 - 06/2023 |
 
 ---
 
